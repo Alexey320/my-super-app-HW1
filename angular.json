@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-super-app"
+    }
+  },
+  "defaultProject": "my-super-app",
+  "cli": {
+    "analytics": "72e48a86-1cb4-4e4d-a8c9-e991d5a3a3fb"
+  }
 }
